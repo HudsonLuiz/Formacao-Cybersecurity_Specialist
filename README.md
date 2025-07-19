@@ -27,9 +27,9 @@ Simular um ataque de **phishing** através da **falsificação do site oficial d
 - Iniciando o setoolkit: setoolkit
 - Tipo de ataque: Social-Engineering Attacks
 - Vetor de ataque: Web Site Attack Vectors
-- Método de ataque: Credential Harvester Attack Method - 1) Website Templates > Java
+- Método de ataque: Credential Harvester Attack Method > 1) Website Templates > Java
 
 ## Resultados
 
-- Foi gerado uma página pelo servidor web simulando um página do Java.
+- Foi gerado uma página pelo servidor web simulando uma página do Java.
 - Através da página gerada foi possível obter todas as pequisas que o usuário estava realizando na mesma. 
